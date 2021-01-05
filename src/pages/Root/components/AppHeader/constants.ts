@@ -14,7 +14,7 @@ export const MENU_LINKS: MenuLinks = [
 		link: ROUTES.Markets,
 	},
 	{
-		i18nLabel: 'header.links.Defi',
+		i18nLabel: 'Defi',
 		link: ROUTES.Synths.Home,
 	},
 	{
