@@ -45,7 +45,7 @@ const FOOTER_LINKS = [
 		i18nTitle: 'home.footer.products.title',
 		links: [
 			{
-				i18nLabel: 'home.footer.products.links.synthetix-exchange',
+				i18nLabel: 'home.footer.products.links.Defidex-exchange',
 				link: ROUTES.Trade,
 				isExternal: false,
 			},
@@ -252,3 +252,4 @@ const VersionLabel = styled.div`
 `;
 
 export default Footer;
+Update
