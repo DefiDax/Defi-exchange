@@ -1,5 +1,5 @@
 {
-	"name": "Synthetix.Exchange",
+	"name": "synthetix.exchange",
 	"version": "2.35.5",
 	"private": true,
 	"dependencies": {
