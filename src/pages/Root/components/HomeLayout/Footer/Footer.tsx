@@ -45,7 +45,7 @@ const FOOTER_LINKS = [
 		i18nTitle: 'home.footer.products.title',
 		links: [
 			{
-				i18nLabel: 'home.footer.products.links.Defidex-Exchange',
+				i18nLabel: 'Defidex-Exchange',
 				link: ROUTES.Trade,
 				isExternal: false,
 			},
