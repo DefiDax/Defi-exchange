@@ -252,4 +252,3 @@ const VersionLabel = styled.div`
 `;
 
 export default Footer;
-Update
