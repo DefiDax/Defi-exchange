@@ -1,5 +1,5 @@
 {
-	"name": "Defidex.Exchange",
+	"name": "Synthetix.Exchange",
 	"version": "2.35.5",
 	"private": true,
 	"dependencies": {
